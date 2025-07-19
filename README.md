@@ -4,6 +4,30 @@
 
 E-Commerce Store adalah aplikasi web berbasis Laravel yang menyediakan platform toko online lengkap dengan fitur manajemen produk, keranjang belanja, sistem pemesanan, dan dashboard admin. Aplikasi ini dirancang untuk memudahkan pengelolaan toko online dengan antarmuka yang user-friendly.
 
+## 🖼️ Tampilan Antarmuka
+
+### 🏠 Halaman Beranda
+![Home Page](Docs/home.png)
+
+### 🛍️ Halaman Produk
+![Produk](Docs/image1.png)
+
+### 🔍 Detail Produk
+![Detail](Docs/image2.png)
+
+### 🛒 Keranjang
+![Cart](Docs/image3.png)
+
+### ✅ Checkout
+![Checkout](Docs/image4.png)
+
+### 👤 Profil
+![Profile](Docs/image5.png)
+
+### 📦 Order Admin
+![Orders](Docs/orders.png)
+
+
 ## ✨ Fitur Utama
 
 ### 🛒 Customer Features

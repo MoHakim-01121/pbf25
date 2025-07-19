@@ -6,25 +6,19 @@ E-Commerce Store adalah aplikasi web berbasis Laravel yang menyediakan platform 
 
 ## 🖼️ Tampilan Antarmuka
 
-### 🏠 Halaman Beranda
+
 ![Home Page](Docs/home.png)
-
-### 🛍️ Halaman Produk
+---
 ![Produk](Docs/image1.png)
-
-### 🔍 Detail Produk
+---
 ![Detail](Docs/image2.png)
-
-### 🛒 Keranjang
+---
 ![Cart](Docs/image3.png)
-
-### ✅ Checkout
+---
 ![Checkout](Docs/image4.png)
-
-### 👤 Profil
+---
 ![Profile](Docs/image5.png)
-
-### 📦 Order Admin
+---
 ![Orders](Docs/orders.png)
 
 
